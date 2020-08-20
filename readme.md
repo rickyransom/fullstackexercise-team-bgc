@@ -1,4 +1,4 @@
-This was a full stack application group exercise. 
+This was a full stack application group exercise at General Assembly, 2020
 Black Girls Code team members:
 
 Kaisha Smith, Anna Schneider, Ricardo Martini, Ricky Latortue, Danny Vera
